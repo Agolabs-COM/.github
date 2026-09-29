@@ -1,5 +1,5 @@
 ## Welcome to Agolabs-com! 👋
-## This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics. 
+This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics. 
 <!--
 
 **Here are some ideas to get you started:**
