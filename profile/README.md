@@ -8,7 +8,8 @@ This organization includes the software projects developed by Stefano Agostinell
 ## 📂 Featured Projects
 * 🚀 **[BreastWatch]**:  a Varian Eclipse ESAPI script for examining External Beam Breast Treatment Plans.
 
-### ⚖️ Code Availability & Terms of Use
+<!-- ### ⚖️ Code Availability & Terms of Use
+-->
 
 > [!IMPORTANT]
 > **Source Available Research Software**
@@ -22,14 +23,3 @@ This organization includes the software projects developed by Stefano Agostinell
 > 
 > Each repository contains a specific `LICENSE` file with the full legal terms. Please review it before using or referencing the code.
 ></small>
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
