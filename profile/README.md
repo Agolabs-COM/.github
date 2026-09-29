@@ -1,5 +1,25 @@
 ## Welcome to Agolabs-com! 👋
-This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics. 
+This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics.
+
+## 🔬 Research Areas & Topics
+- Medical Imaging & Processing
+- Radiation Therapy Physics / Dosimetry
+- Data Analysis & Modeling
+
+📂 Featured Projects
+* 🚀 **[Nome-Del-Progetto-C#]**: Brief description of the Visual C# project you just uploaded (e.g., "Software for DICOM analysis...").
+
+⚖️ Code Availability & Terms of Use
+
+> [!IMPORTANT]
+> **Source Available Research Software**
+> The software hosted in this organization is made publicly available to ensure transparency, reproducibility, and peer review within the medical physics scientific community.
+> 
+> * **No Redistribution:** You may browse and compile the code for personal or academic research, but redistributing the source code or its binaries (including public forks) is strictly prohibited.
+> * **Non-Commercial Only:** Any commercial utilization or commercial research is forbidden without prior written authorization.
+> 
+> Each repository contains a specific `LICENSE` file with the full legal terms. Please review it before using or referencing the code.
+
 <!--
 
 **Here are some ideas to get you started:**
