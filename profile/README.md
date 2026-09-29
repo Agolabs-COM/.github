@@ -18,6 +18,7 @@ This organization includes the software projects developed by Stefano Agostinell
 > 
 > * **No Redistribution:** You may browse and compile the code for internal evaluation or academic research, but redistributing the source code or its binaries (including public forks) is strictly prohibited.
 > * **Non-Commercial Only:** Any commercial utilization or commercial research is forbidden without prior written authorization.
+> * * **No Warranty:** The software is provided "as is", without warranty of any kind, express or implied.
 > 
 > Each repository contains a specific `LICENSE` file with the full legal terms. Please review it before using or referencing the code.
 
