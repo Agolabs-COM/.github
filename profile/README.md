@@ -14,7 +14,7 @@ This organization includes the software projects developed by Stefano Agostinell
 > [!IMPORTANT]
 > **Source Available Research Software**
 >
-> All the projects are experimental, research-only, and are hosted in this organization to ensure transparency, reproducibility, and peer review within the medical physics scientific community.
+> All the software projects are experimental, research-only, and are hosted in this organization to ensure transparency, reproducibility, and peer review within the medical physics scientific community.
 > 
 > * **No Redistribution:** You may browse and compile the code for internal evaluation or academic research, but redistributing the source code or its binaries (including public forks) is strictly prohibited.
 > * **Non-Commercial Only:** Any commercial utilization or commercial research is forbidden without prior written authorization.
