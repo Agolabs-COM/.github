@@ -2,8 +2,7 @@
 This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics.
 
 ## 🔬 Research Areas & Topics
-- Radiation Therapy Physics / Dosimetry
-- Treatment Planning
+- Radiation Therapy Physics / Dosimetry / Treatment Planning
 - Data Analysis & Modeling
 
 ## 📂 Featured Projects
