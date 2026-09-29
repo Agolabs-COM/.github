@@ -1,4 +1,4 @@
-## Hello World! 👋
+## This organization includes software projects which have been developed by Stefano Agostinelli as part of research activities in medical physics. 👋
 <!--
 
 **Here are some ideas to get you started:**
