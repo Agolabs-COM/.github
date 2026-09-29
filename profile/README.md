@@ -8,7 +8,7 @@ This organization includes the software projects developed by Stefano Agostinell
 ## 📂 Featured Projects
 * 🚀 **[BreastWatch]**:  a Varian Eclipse ESAPI script for examining External Beam Breast Treatment Plans.
 
-## ⚖️ Code Availability & Terms of Use
+### ⚖️ Code Availability & Terms of Use
 
 > [!IMPORTANT]
 > **Source Available Research Software**
