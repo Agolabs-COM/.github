@@ -2,14 +2,14 @@
 This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics.
 
 ## 🔬 Research Areas & Topics
-- Medical Imaging & Processing
 - Radiation Therapy Physics / Dosimetry
+- Treatment Planning
 - Data Analysis & Modeling
 
-📂 Featured Projects
-* 🚀 **[Nome-Del-Progetto-C#]**: Brief description of the Visual C# project you just uploaded (e.g., "Software for DICOM analysis...").
+## 📂 Featured Projects
+* 🚀 **[BreastWatch]**:  a Varian Eclipse ESAPI script for examining External Beam Breast Treatment Plans.
 
-⚖️ Code Availability & Terms of Use
+## ⚖️ Code Availability & Terms of Use
 
 > [!IMPORTANT]
 > **Source Available Research Software**
