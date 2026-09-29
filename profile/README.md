@@ -13,6 +13,7 @@ This organization includes the software projects developed by Stefano Agostinell
 > [!IMPORTANT]
 > **Source Available Research Software**
 >
+> <small>
 > All the software projects are experimental, research-only, and are hosted in this organization to ensure transparency, reproducibility, and peer review within the medical physics scientific community.
 > 
 > * **No Redistribution:** You may browse and compile the code for internal evaluation or academic research, but redistributing the source code or its binaries (including public forks) is strictly prohibited.
@@ -20,6 +21,7 @@ This organization includes the software projects developed by Stefano Agostinell
 > * **No Warranty:** The software is provided "as is", without warranty of any kind, express or implied.
 > 
 > Each repository contains a specific `LICENSE` file with the full legal terms. Please review it before using or referencing the code.
+></small>
 
 <!--
 
