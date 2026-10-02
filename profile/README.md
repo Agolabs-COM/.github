@@ -11,7 +11,7 @@ software projects developed by Stefano Agostinelli for medical physics research.
 
 ### 📂 featured projects
 
-- **[BreastWatch]**: a varian eclipse esapi script for examining external beam breast treatment plans.
+- **[BreastWatch]**: a Varian Eclipse ESAPI script for examining external beam breast treatment plans.
 
 ---
 
