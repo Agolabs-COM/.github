@@ -21,7 +21,7 @@ software projects developed by Stefano Agostinelli for medical physics research.
 > <small>
 > all software projects in this organization are experimental and intended for research purposes only to promote transparency, reproducibility, and peer review within the medical physics scientific community.
 > 
-> - **internal use & forks:** in accordance with github terms of service, public forks are permitted solely for internal evaluation, personal study, or academic research. 
+> - **internal use & forks:** public forks are permitted solely for internal evaluation, personal study, or academic research. 
 > - **no redistribution:** further redistribution, re-licensing, or publishing modified versions outside of your personal github account is strictly prohibited.
 > - **non-commercial only:** any commercial utilization or commercial research is forbidden without prior written authorization.
 > - **no warranty:** the software is provided "as is", without warranty of any kind.
