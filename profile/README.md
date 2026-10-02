@@ -1,25 +1,29 @@
-# 👋 Welcome to agolabs-research! 
-This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics.
+# 👋 welcome to agolabs-research
 
-## 🔬 Research Areas & Topics
-- Radiation Therapy Physics / Dosimetry / Treatment Planning
-- Data Analysis & Modeling
+software projects developed by stefano agostinelli for medical physics research.
 
-## 📂 Featured Projects
-* 🚀 **[BreastWatch]**:  a Varian Eclipse ESAPI script for examining External Beam Breast Treatment Plans.
+---
 
-<!-- ### ⚖️ Code Availability & Terms of Use
--->
+### 🔬 research areas & topics
+
+- radiation therapy physics, dosimetry & treatment planning
+- data analysis & mathematical modeling
+
+### 📂 featured projects
+
+- **[BreastWatch]**: a varian eclipse esapi script for examining external beam breast treatment plans.
+
+---
 
 > [!IMPORTANT]
-> **Source Available Research Software**
+> **source available research software**
 >
 > <small>
-> All the software projects are experimental, research-only, and are hosted in this organization to ensure transparency, reproducibility, and peer review within the medical physics scientific community.
+> all software projects in this organization are experimental and intended for research purposes only to promote transparency, reproducibility, and peer review within the medical physics scientific community.
 > 
-> * **No Redistribution:** You may browse and compile the code for internal evaluation or academic research, but redistributing the source code or its binaries (including public forks) is strictly prohibited.
-> * **Non-Commercial Only:** Any commercial utilization or commercial research is forbidden without prior written authorization.
-> * **No Warranty:** The software is provided "as is", without warranty of any kind, express or implied.
+> - **no redistribution:** you may browse and compile code for internal evaluation or academic research. redistributing source code or binaries (including public forks) is strictly prohibited.
+> - **non-commercial only:** any commercial utilization or commercial research is forbidden without prior written authorization.
+> - **no warranty:** the software is provided "as is", without warranty of any kind.
 > 
-> Each repository contains a specific `LICENSE` file with the full legal terms. Please review it before using or referencing the code.
-></small>
+> each repository contains a specific `LICENSE` file with full legal terms. please review it before using or referencing the code.
+> </small>
