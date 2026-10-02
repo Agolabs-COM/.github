@@ -1,9 +1,5 @@
 # 👋 welcome to agolabs-research
 
-software projects developed by Stefano Agostinelli for medical physics research.
-
----
-
 ### 🔬 research areas & topics
 
 - radiation therapy physics, dosimetry & treatment planning
