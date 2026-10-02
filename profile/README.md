@@ -1,6 +1,6 @@
 # 👋 welcome to agolabs-research
 
-software projects developed by stefano agostinelli for medical physics research.
+software projects developed by Stefano Agostinelli for medical physics research.
 
 ---
 
