@@ -1,4 +1,4 @@
-# 👋 Welcome to Agolabs-com! 
+# 👋 Welcome to agolabs-research! 
 This organization includes the software projects developed by Stefano Agostinelli as part of research activities in medical physics.
 
 ## 🔬 Research Areas & Topics
