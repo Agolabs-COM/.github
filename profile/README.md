@@ -25,5 +25,4 @@ software projects developed by Stefano Agostinelli for medical physics research.
 > - **terms & forks:** public forks and code usage are governed by the specific `LICENSE` file located in each repository. please review it before using, forking, or referencing the code.
 > - **no warranty:** the software is provided "as is", without warranty of any kind.
 > 
-> each repository contains a specific `LICENSE` file with full legal terms. please review it before using or referencing the code.
 > </small>
