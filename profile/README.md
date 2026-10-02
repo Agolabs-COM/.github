@@ -11,7 +11,7 @@ software projects developed by stefano agostinelli for medical physics research.
 
 ### 📂 featured projects
 
-- **[BreastWatch]**: a varian eclipse esapi script for examining external beam breast treatment plans.
+-  🚀 **[BreastWatch]**: a varian eclipse esapi script for examining external beam breast treatment plans.
 
 ---
 
@@ -21,7 +21,8 @@ software projects developed by stefano agostinelli for medical physics research.
 > <small>
 > all software projects in this organization are experimental and intended for research purposes only to promote transparency, reproducibility, and peer review within the medical physics scientific community.
 > 
-> - **no redistribution:** you may browse and compile code for internal evaluation or academic research. redistributing source code or binaries (including public forks) is strictly prohibited.
+> - **internal use & forks:** in accordance with github terms of service, public forks are permitted solely for internal evaluation, personal study, or academic research. 
+> - **no redistribution:** further redistribution, re-licensing, or publishing modified versions outside of your personal github account is strictly prohibited.
 > - **non-commercial only:** any commercial utilization or commercial research is forbidden without prior written authorization.
 > - **no warranty:** the software is provided "as is", without warranty of any kind.
 > 
