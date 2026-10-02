@@ -1,11 +1,11 @@
-# 👋 welcome to agolabs-research
+# 👋 Welcome to agolabs-research
 
-### 🔬 research areas & topics
+### 🔬 Research areas & topics
 
 - radiation therapy physics, dosimetry & treatment planning
 - data analysis & mathematical modeling
 
-### 📂 featured projects
+### 📂 Featured projects
 
 - **[BreastWatch]**: a Varian Eclipse ESAPI script for examining external beam breast treatment plans.
 
